@@ -1,0 +1,13 @@
+{
+  "owner_id": 0,
+  "support_chat": 0,
+  "support_topic": 0,
+  "yookassa_shop_id": "",
+  "yandex_merchant_id": "",
+  "ms_organization_id": "",
+  "ms_sample_document_id": "",
+  "ms_organization_exclusive": false,
+  "support_shipment_text": {
+    "ДЕМО ПЕРВАЯ ПАРТИЯ": "Заказ относится к первой партии, отправка в течение недели"
+  }
+}
